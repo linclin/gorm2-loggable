@@ -1,4 +1,4 @@
-module github.com/LibertusDio/gorm2-loggable
+module github.com/linclin/gorm2-loggable
 
 go 1.16
 
